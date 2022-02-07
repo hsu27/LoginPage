@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "23206942498",
+    "project_id": "loginpage-bec88",
+    "storage_bucket": "loginpage-bec88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23206942498:android:c7a39be3c11d69a1b8377b",
+        "android_client_info": {
+          "package_name": "com.example.loginpage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23206942498-g9tpnoqqkkk23odvr26d1fja65aa1lsg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.loginpage",
+            "certificate_hash": "849bd2e76277ac8e1c0c2c4eb5db3bb35b273d21"
+          }
+        },
+        {
+          "client_id": "23206942498-u4kc9a48dsgkugi9elav7ptcu6o96qhc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3VIpdaP5MU1JzdnlwhBBxo9Csw_-cHFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23206942498-u4kc9a48dsgkugi9elav7ptcu6o96qhc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
